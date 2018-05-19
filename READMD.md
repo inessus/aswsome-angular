@@ -3,6 +3,7 @@ Angular资料获取不完全指南
 
 ## **搜索引擎**
 
+
 由于目前版本的Angular与之前的angularjs存在关键词重合的情况，在Google或者百度搜索Angular相关材料时会被angularjs的相关文章反复干扰，这种关键字污染其实使用[搜索引擎语法](https://www.zhihu.com/question/20161362)可以很方便的解决，在搜索关键词后加入 `-angularjs` 就可以有效避免干扰，这里是[百度](https://link.zhihu.com/?target=https%3A//www.baidu.com/s%3Fwd%3Dngmodel%2520-angularjs%26rsv_spt%3D1%26rsv_iqid%3D0xf017b5030000a7a5%26issp%3D1%26f%3D8%26rsv_bp%3D1%26rsv_idx%3D2%26ie%3Dutf-8%26rqlang%3Dcn%26tn%3Dbaiduhome_pg%26rsv_enter%3D1%26oq%3Dangular%252520-angularjs%26inputT%3D176500%26rsv_t%3D41a4jNnNfAqXHctDAEryVYZuUTS8k83zTCs8YwLrduHZ05oDtUjC6WGWjEV3tgNfdh%252F6%26rsv_sug3%3D32%26rsv_pq%3Da9bba9c30000abbb%26rsv_sug2%3D0%26rsv_sug4%3D182520)和[Google](https://link.zhihu.com/?target=https%3A//www.google.co.uk/search%3Fq%3Dngmodel%2B-angularjs%26oq%3Dngmodel%2B-angularjs%26aqs%3Dchrome.0.69i59j69i60j69i65l3j0.3728j0j7%26sourceid%3Dchrome%26ie%3DUTF-8)移除`angularjs`关键词后搜索的 `ngModel` 的结果。
 
 ## **博客及文章**
